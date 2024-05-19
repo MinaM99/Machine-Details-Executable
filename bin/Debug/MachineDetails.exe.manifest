@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MachineDetails.exe" size="4833240">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MachineDetails.exe" size="5356504">
       <assemblyIdentity name="MachineDetails" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ucs7Eq80bzH9gQPl8UtXdSnGup8z57G0wFyalz/XL+M=</dsig:DigestValue>
+        <dsig:DigestValue>BHyR2pKC6HB+AKC+1rsF8x1SDgeYbJR5NROzDQJxOYA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,13 +63,13 @@
       <dsig:DigestValue>NOZ82UqEWh/JyL9JsL/68G1d3yEwsRX4r2MSwv0ZybE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="MachineDetails.exe.config" size="3068">
+  <file name="MachineDetails.exe.config" size="3105">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>R8BnFq5HLzqJyPt3JOpNPNxR1NAif8051ezMLJahnSY=</dsig:DigestValue>
+      <dsig:DigestValue>RvNyd0GzAzsS2qYEkbrFg2Xb5ajp8U/27cGmPs50/gk=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

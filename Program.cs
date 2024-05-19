@@ -72,6 +72,7 @@ namespace MachineDetails
             string DBPassword;
             string ServiceName;
             string HostIP;
+            string DBPort;
             string DBTableName;
             string hostName;
             string IPv6 = null;
@@ -121,11 +122,13 @@ namespace MachineDetails
                 DBPassword = DecryptPassword(DBPassword_Encrypted);
                 HostIP = ConfigurationManager.AppSettings["HostIP"];
                 ServiceName = ConfigurationManager.AppSettings["ServiceName"];
+
+                DBPort = ConfigurationManager.AppSettings["DBPort"];
                 timeStamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
                 
                 //string connectionString = "Data Source=" + ServiceName + ";Initial Catalog=" + DatabaseName + ";User Id=" + DBUsername + ";Password=" + DBPassword + ";";
 
-                string connectionString = @"Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST="+ HostIP +")(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=" + ServiceName + ")));User Id=" + DBUsername +";Password=" + DBPassword + ";";
+                string connectionString = @"Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST="+ HostIP +")(PORT=" + DBPort + "))(CONNECT_DATA=(SERVICE_NAME=" + ServiceName + ")));User Id=" + DBUsername +";Password=" + DBPassword + ";";
                 // Parse the timestamp string using DateTime.TryParseExact
 
                 using (OracleConnection con = new OracleConnection(connectionString))

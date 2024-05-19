@@ -26,31 +26,3 @@ C:\Users\mina.maher\Desktop\Machine Details Code\MachineDetailsExecutable\obj\De
 C:\Users\mina.maher\Desktop\Machine Details Code\MachineDetailsExecutable\obj\Debug\MachineDetails.application
 C:\Users\mina.maher\Desktop\Machine Details Code\MachineDetailsExecutable\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\mina.maher\Desktop\Machine Details Code\MachineDetailsExecutable\obj\Debug\MachineDetailsExecutable.csproj.Fody.CopyLocal.cache
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\MachineDetails.exe.config
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\MachineDetails.exe.manifest
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\MachineDetails.application
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\MachineDetails.exe
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\MachineDetails.pdb
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\EntityFramework.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Buffers.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Formats.Asn1.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Memory.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Text.Encodings.Web.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Text.Json.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\bin\Debug\System.ValueTuple.xml
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetailsExecutable.csproj.AssemblyReference.cache
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetails.Properties.Resources.resources
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetailsExecutable.csproj.GenerateResource.cache
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetailsExecutable.csproj.CoreCompileInputs.cache
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetailsExecutable.csproj.Fody.CopyLocal.cache
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetails.exe.manifest
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetails.application
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineD.4A02FAA8.Up2Date
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetails.exe
-C:\Users\mina.maher\Documents\GitHub\Machine-Details-Executable\obj\Debug\MachineDetails.pdb
